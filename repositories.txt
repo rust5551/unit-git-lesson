@@ -1,2 +1,3 @@
 Список репозиториев студентов (slei-menya-po-bratski):
 rust555 link
+ogo test 2
