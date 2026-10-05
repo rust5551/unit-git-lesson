@@ -1,1 +1,2 @@
 Список репозиториев студентов (main):
+https://github.com/FeretPolun/kodiki
