@@ -1,1 +1,2 @@
 Список репозиториев студентов (slei-menya-po-bratski):
+https://github.com/rust5551/unit-git-lesson/
