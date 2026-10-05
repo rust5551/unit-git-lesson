@@ -1,2 +1,3 @@
-Список репозиториев студентов (main):
+﻿Список репозиториев студентов (main):
 https://github.com/FeretPolun/kodiki
+https://github.com/FanHapDev/testrep
